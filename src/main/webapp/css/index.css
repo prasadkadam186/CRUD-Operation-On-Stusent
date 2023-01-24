@@ -1,0 +1,28 @@
+h1{
+	color: #ff0080;
+	font-size: 40px;
+	font-family: serif;
+	text-shadow: olive;
+}
+h1:hover {
+	color: #400080;
+	font-size: 40px;
+	text-decoration: overline;
+	text-transform: uppercase;
+}
+.col{
+	border-radius:5px;
+	box-shadow: 0 0 5px #ff9dff,
+    0 0 25px #ff9dff,
+    0 0 50px #ff9dff,
+    0 0 100px #ff9dff; 
+}
+a:hover {
+	color: #9354ab;
+	font-size: 20px;
+}
+h2{
+	color: #9354ab;
+	font-family: serif;
+	font-size: 15px;
+}
